@@ -1,3 +1,6 @@
+/*instructor john nel lim 
+for final hands-on exam*/
+
 body{
 	font-family: 'Inter', sans-serif;
 	color: #000;
@@ -9,9 +12,7 @@ body{
 }
 
 .container{
-	max-width: 920px;
-	margin: 0 auto;
-	display: block;
+
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -55,8 +56,6 @@ nav{
 }
 
 nav{
-	padding: 0;
-	margin: 0;
 }
 
 nav ul li{
@@ -86,7 +85,7 @@ nav ul li a:hover{
 }
 	
 .hero_expanded{ 
-	background: url("img/hero_tshirt.jpg") no-repeat top/cover;
+	background: url("img/.jpg") no-repeat top/cover;
 	position: absolute;
 	width: 100%;
 	height: 550px;
@@ -127,6 +126,10 @@ nav ul li a:hover{
 	width: 100%;
 	background-color: #fff;
 }
+
+
+/*instructor john nel lim 
+for final hands-on exam*/
 
 
 /* TSHIRT */
@@ -226,7 +229,7 @@ nav ul li a:hover{
 /* about */ 
 
 .about_module {
-	background: url("img/Group.jpg") no-repeat top/cover;
+	background: url("images/Group.jpg") no-repeat top/cover;
 	position: relative;
 	height: 700px;
 	width: 100%;
@@ -265,10 +268,7 @@ nav ul li a:hover{
 	background : #66636380;
 }
 .footer .container {
-	max-width: 100%;
-	height: 360px;
-	position: relative;
-	margin: 0 auto;
+
 	
 }
 
@@ -320,3 +320,7 @@ nav ul li a:hover{
 .footer .copyright{
 	text-align: center;
 }
+
+
+/*instructor john nel lim 
+for final hands-on exam*/
